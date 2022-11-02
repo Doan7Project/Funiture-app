@@ -128,7 +128,6 @@
         <div class="shadow-none px-4 py-4">
           <div class="cursor">
             <span class="fs-5 fw-bolder">FEATURED PRODUCTS</span>
-            {{-- <span class="fs-5">Why we were are the best store</span> --}}
             <p class="py-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. In sint nostrum deleniti ipsa sunt
               atque unde
               est sapiente odit accusamus, ipsam suscipit soluta a quam, recusandae corporis reprehenderit. Eos, esse!
